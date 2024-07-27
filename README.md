@@ -6,6 +6,8 @@
 ![Main Page](images/mainpage.png)
 StudyNotion is a fully functional EdTech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 
+The front end of StudyNotion is designed using a tool called Figma, which is a popular design tool that allows for the creation of clean and minimal user interfaces. You can take a look at the Figma design for the StudyNotion front-end by following this link: https://www.figma.com/file/Mikd0FjHKAofUlWQSi70nf/StudyNotion_shared
+
 ## Table of Contents
 
 - [Introduction](#introduction)
